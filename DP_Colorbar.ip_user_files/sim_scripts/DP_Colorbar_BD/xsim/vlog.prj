@@ -1,0 +1,7 @@
+verilog xil_defaultlib --include "D:/vivado/Vivado/2023.2/data/xilinx_vip/include" --include "../../../../DP_Colorbar.gen/sources_1/bd/DP_Colorbar_BD/ipshared/ec67/hdl" --include "../../../../DP_Colorbar.gen/sources_1/bd/DP_Colorbar_BD/ipshared/2fcd/hdl" \
+"../../../bd/DP_Colorbar_BD/ip/DP_Colorbar_BD_zynq_ultra_ps_e_0_0/sim/DP_Colorbar_BD_zynq_ultra_ps_e_0_0_vip_wrapper.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

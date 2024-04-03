@@ -1,0 +1,10 @@
+16:03:29 **** Incremental Build of configuration Debug for project xdpdma_video_example_1_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 55237 D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/DP_Colorbar_BD_wrapper/export/DP_Colorbar_BD_wrapper/DP_Colorbar_BD_wrapper.xpfm standalone_psu_cortexa53_0 D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/xdpdma_video_example_1_system/Debug/system.bif
+sdcard_gen --xpfm D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/DP_Colorbar_BD_wrapper/export/DP_Colorbar_BD_wrapper/DP_Colorbar_BD_wrapper.xpfm --sys_config DP_Colorbar_BD_wrapper --bif D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/xdpdma_video_example_1_system/Debug/system.bif --bitstream D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/xdpdma_video_example_1/_ide/bitstream/DP_Colorbar_BD_wrapper.bit --elf D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/xdpdma_video_example_1/Debug/xdpdma_video_example_1.elf,psu_cortexa53_0
+creating BOOT.BIN using D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/xdpdma_video_example_1/_ide/bitstream/DP_Colorbar_BD_wrapper.bit
+Running D:/vivado/Vitis/2023.2/bin/bootgen -arch zynqmp -image D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/xdpdma_video_example_1_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+16:03:52 Build Finished (took 22s.589ms)
+

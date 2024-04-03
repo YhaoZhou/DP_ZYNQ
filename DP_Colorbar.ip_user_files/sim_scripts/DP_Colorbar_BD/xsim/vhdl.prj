@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../bd/DP_Colorbar_BD/sim/DP_Colorbar_BD.vhd" \
+
+# Do not sort compile order
+nosort

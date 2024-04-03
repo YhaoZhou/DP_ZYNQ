@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"DP_Colorbar_BD": {
+			"proto_instances": {
+			}
+		}
+	}
+}

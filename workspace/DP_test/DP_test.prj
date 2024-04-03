@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="DP_test" location="D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/DP_test" platform="D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/DP_Colorbar_BD_wrapper/export/DP_Colorbar_BD_wrapper/DP_Colorbar_BD_wrapper.xpfm" platformUID="xilinx:ultra96v2::0.0(custom)" systemProject="DP_test_system" sysConfig="DP_Colorbar_BD_wrapper" runtime="cpp" cpu="standalone_psu_cortexa53_0" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="d6028740dc1c7c8e3d7936a1a11c5548">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.1577055742" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.735061946" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

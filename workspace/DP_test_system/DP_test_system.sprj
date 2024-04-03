@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="DP_test_system" platform="D:/Zynq_Pro/DP_Colorbar20240402/DP_Colorbar/workspace/DP_Colorbar_BD_wrapper/export/DP_Colorbar_BD_wrapper/DP_Colorbar_BD_wrapper.xpfm" platformUID="xilinx:ultra96v2::0.0(custom)" sysConfig="DP_Colorbar_BD_wrapper" runtime="cpp" rootFSLocation="" linuxImage="" sysroot="">
+  <configuration name="Debug" id="com.xilinx.sdx.system.managedbuilder.debugConfiguration.1599398532">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="DP_test" domainName="standalone_psu_cortexa53_0" domainPrettyName="standalone_psu_cortexa53_0" appBuildConfig="Debug"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </configBuildOptions>
+  </configuration>
+  <configuration name="Release" id="com.xilinx.sdx.system.managedbuilder.releaseConfiguration.1395527524">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="DP_test" domainName="standalone_psu_cortexa53_0" domainPrettyName="standalone_psu_cortexa53_0" appBuildConfig="Release"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </configBuildOptions>
+  </configuration>
+</systemproject:SystemProject>
